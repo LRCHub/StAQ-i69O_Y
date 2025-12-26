@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Fame",
+  "base_artist": "RIIZE",
+  "createdAt": "2025-12-26T09:57:27.093042Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Fame",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/01_The_Fame_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fame >Demise [remix]",
+      "artist": "Woe, Is Me",
+      "has_synced": true,
+      "path": "select/02_Fame__Demise_[remix]_Woe,_Is_Me.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fame>Demise",
+      "artist": "Woe, Is Me",
+      "has_synced": false,
+      "path": "select/03_Fame_Demise_Woe,_Is_Me.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fame>Demise [acoustic]",
+      "artist": "Woe, Is Me",
+      "has_synced": false,
+      "path": "select/04_Fame_Demise_[acoustic]_Woe,_Is_Me.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "fame>demise",
+      "artist": "Woe Is Me",
+      "has_synced": true,
+      "path": "select/05_fame_demise_Woe_Is_Me.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "15 Min. of Fame",
+      "artist": "Thomas D",
+      "has_synced": true,
+      "path": "select/06_15_Min._of_Fame_Thomas_D.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fame (Das Music-Kill)",
+      "artist": "Samy Deluxe",
+      "has_synced": false,
+      "path": "select/07_Fame_(Das_Music-Kill)_Samy_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fame",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Fame_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fame",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Fame_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "PUSSY MONEY FAME",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/10_PUSSY_MONEY_FAME_YG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Claim To Fame",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/11_Claim_To_Fame_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fame and Fortune",
+      "artist": "Mission of Burma",
+      "has_synced": true,
+      "path": "select/12_Fame_and_Fortune_Mission_of_Burma.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hall of Fame",
+      "artist": "The Meeting Places",
+      "has_synced": false,
+      "path": "select/13_Hall_of_Fame_The_Meeting_Places.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Fame",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/14_The_Fame_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fame And Fortune",
+      "artist": "The Libertines",
+      "has_synced": true,
+      "path": "select/15_Fame_And_Fortune_The_Libertines.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Far from the Fame",
+      "artist": "Sabaton",
+      "has_synced": true,
+      "path": "select/16_Far_from_the_Fame_Sabaton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fame",
+      "artist": "RIIZE",
+      "has_synced": false,
+      "path": "select/pl_01_Fame_RIIZE.txt"
+    }
+  ]
+}
